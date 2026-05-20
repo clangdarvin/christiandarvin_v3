@@ -2,11 +2,11 @@
 title: "about"
 ---
 
-I'm a Computer Science graduate specializing in Intelligent Systems from DLSU-D, PH. After completing my undergraduate thesis, I decided to expand my toolkit beyond Python by exploring C++ and Go.
+I'm a Computer Science graduate specializing in Intelligent Systems from DLSU-D, PH. After completing my undergraduate thesis, I decided to expand my toolkit beyond Python by exploring C++.
 
 While most of my coursework centered on Intelligent Systems, I realized how much I missed working with Data Structures and Algorithms (DSA). Transitioning my focus toward Theoretical Computer Science has been a refreshing shift.
 
-Running Ubuntu Linux as my daily driver since February 2025, my workflow consists of Python and C++ for studying algorithms and building side projects, alongside Go, which I'm testing out just for TUIs.
+Running Ubuntu Linux as my daily driver since February 2025, my workflow consists of Python and C++ for studying algorithms and building side projects.
 
 <div style="width: 100%; max-width: 300px; margin: 2rem auto;">
   <canvas id="langChart"></canvas>
@@ -21,8 +21,5 @@ Email me at [elidarvin.cs@gmail.com](mailto:elidarvin.cs@gmail.com) (personal) o
 
 ### papers
 
-**ImuSafe** ([**pdf**](#), [**blog**](#))<br>
-Evaluating the Effectiveness of YOLOv11-Based Vehicular Accident Detection Mobile App
-
-**CretaceousWake** ([**pdf**](#), [**blog**](#))<br>
-An FSM-Driven 3D Dinosaur Horror Game
+**ImuSafe** <br>
+Evaluating the Effectiveness of YOLOv11-Based Vehicular Accident Detection in the ImuSafe Mobile App: A Quantitative Study in Imus, Cavite [<a href="/files/IMUSAFE_Abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract (PDF)</a>]

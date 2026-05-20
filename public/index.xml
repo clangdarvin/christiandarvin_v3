@@ -4,14 +4,28 @@
     <title>about on christiandarvin</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in about on christiandarvin</description>
-    <generator>Hugo -- 0.160.1</generator>
+    <generator>Hugo -- 0.161.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 01:32:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ImuSafe</title>
+      <link>http://localhost:1313/projects/imusafe/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/imusafe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SecurePin</title>
+      <link>http://localhost:1313/projects/securepin/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/securepin/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Computing Machinery and Intelligence</title>
       <link>http://localhost:1313/blogs/computing_machinery_intelligence/</link>
-      <pubDate>Fri, 10 Apr 2026 01:32:43 +0800</pubDate>
+      <pubDate>Sun, 12 Apr 2026 01:36:59 +0800</pubDate>
       <guid>http://localhost:1313/blogs/computing_machinery_intelligence/</guid>
       <description>Alan Turing – 1950</description>
     </item>
@@ -20,7 +34,7 @@
       <link>http://localhost:1313/talks/lakbai_26/</link>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talks/lakbai_26/</guid>
-      <description>We were required to conduct a seminar for senior high school STEM-ICT students as a final requirement for our Intelligent Systems course.</description>
+      <description>Delivered a talk to an audience of 60 SHS ICT participants as a final project for an Intelligent Systems course.</description>
     </item>
     <item>
       <title>AlgoStep</title>
@@ -30,32 +44,11 @@
       <description></description>
     </item>
     <item>
-      <title>SecurePin</title>
-      <link>http://localhost:1313/projects/securepin/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/securepin/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence</title>
       <link>http://localhost:1313/blogs/dartmouth_ai_proposal/</link>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/dartmouth_ai_proposal/</guid>
       <description>J. McCarthy, M. L. Minsky, N. Rochester, C.E. Shannon – 1955</description>
-    </item>
-    <item>
-      <title>CretaceousWake</title>
-      <link>http://localhost:1313/projects/cretaceouswake/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/cretaceouswake/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ImuSafe</title>
-      <link>http://localhost:1313/projects/imusafe/</link>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/imusafe/</guid>
-      <description></description>
     </item>
     <item>
       <title>International Conference on Artificial Intelligence (ICAI) – 2026</title>

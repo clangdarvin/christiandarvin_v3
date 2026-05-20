@@ -5,11 +5,11 @@ document.addEventListener("DOMContentLoaded", function () {
     new Chart(ctx, {
       type: "bar",
       data: {
-        labels: ["Python", "C++", "Bash", "Go"],
+        labels: ["C++20", "Python", "Bash"],
         datasets: [
           {
-            data: [10, 9, 4, 1],
-            backgroundColor: ['#5C78B7', '#D58A55', '#64A060', '#C65B5B'],
+            data: [10, 6, 4],
+            backgroundColor: ["#5C78B7", "#D58A55", "#C65B5B"],
             borderRadius: 4,
             barThickness: 12,
           },

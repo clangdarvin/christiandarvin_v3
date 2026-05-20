@@ -1,5 +1,5 @@
 baseURL: https://christiandarvin.dev/
-languageCode: en-us
+locale: "en-us"
 title: christiandarvin
 theme: ["PaperMod"]
 params:
@@ -14,7 +14,7 @@ menu:
   main:
     - identifier: cv
       name: CV
-      url: /files/darvin_resume.pdf
+      url: files/DARVIN_Resume.pdf
       weight: 50
 
     - identifier: reads
