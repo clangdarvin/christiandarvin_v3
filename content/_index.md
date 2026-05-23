@@ -21,5 +21,9 @@ Email me at [elidarvin.cs@gmail.com](mailto:elidarvin.cs@gmail.com) (personal) o
 
 ### papers
 
-**ImuSafe** <br>
-Evaluating the Effectiveness of YOLOv11-Based Vehicular Accident Detection in the ImuSafe Mobile App: A Quantitative Study in Imus, Cavite [<a href="/files/IMUSAFE_Abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract (PDF)</a>]
+* Evaluating the Effectiveness of YOLOv11-Based Vehicular Accident Detection in the ImuSafe Mobile App: A Quantitative Study in Imus, Cavite [<a href="/files/IMUSAFE_Abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract (PDF)</a>]
+
+### certificates
+
+* **LSF101: Introduction to Linux**, The Linux Foundation, 2025 [[View Badge](https://www.credly.com/badges/59619cea-1307-4ffc-b4fe-c8442931e928/public_url)]
+* **Linux Essentials**, Cisco, 2025 [[View Badge](https://www.credly.com/badges/72f4bc39-ce7d-41fe-b877-3d05d6c7f211/linked_in_profile)]
