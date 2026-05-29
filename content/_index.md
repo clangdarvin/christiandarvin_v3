@@ -19,6 +19,10 @@ Running Ubuntu Linux as my daily driver since February 2025, my workflow consist
 
 Email me at [elidarvin.cs@gmail.com](mailto:elidarvin.cs@gmail.com) (personal) or [dcd0655@dlsud.edu.ph](mailto:dcd0655@dlsud.edu.ph) (university)
 
+[LinkedIn](https://www.linkedin.com/in/christiandarvin/)
+
+[GitHub](https://github.com/clangdarvin/)
+
 ### papers
 
 * Evaluating the Effectiveness of YOLOv11-Based Vehicular Accident Detection in the ImuSafe Mobile App: A Quantitative Study in Imus, Cavite [<a href="/files/IMUSAFE_Abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract (PDF)</a>]
