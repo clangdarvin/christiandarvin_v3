@@ -19,8 +19,8 @@ Running Ubuntu Linux as my daily driver since February 2025, my workflow consist
 
 - **Personal Email:** [elidarvin.cs@gmail.com](mailto:elidarvin.cs@gmail.com)
 - **University Email:** [dcd0655@dlsud.edu.ph](mailto:dcd0655@dlsud.edu.ph)
-- **LinkedIn:** https://www.linkedin.com/in/christiandarvin/
-- **GitHub:** https://github.com/clangdarvin/
+- **LinkedIn:** [christiandarvin](https://www.linkedin.com/in/christiandarvin/)
+- **GitHub:** [clangdarvin](https://github.com/clangdarvin/)
 
 ### papers
 
