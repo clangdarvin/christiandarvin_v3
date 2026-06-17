@@ -2,13 +2,13 @@
 title: "LakbAI: From Algorithms to Advocacy – 2026"
 date: 2026-03-25
 draft: false
-description: "Delivered a talk to an audience of 60 SHS ICT participants as a final project for an Intelligent Systems course."
+description: "Delivered a talk to an audience of 60 SHS ICT students as a final project for my Intelligent Systems course."
 summary: "Delivering my session, 'CS Algorithms Demystified: A Beginner's Guide to Searching, Sorting, and Solving,' to future CS and IT students."
 ---
 
 {{< youtube NE6a-LgjNJk >}}
 
-<br>I volunteered to present at the seminar due to my strong interest in CS algorithms. Preparing for the session was interesting; I utilized various resources to structure my presentation and learned a great deal in the process. Despite a demanding academic week, I successfully delivered the presentation. However, I wasn't able to explain asymptotic notation as clearly as I would have liked, as I am still trying to understand that concept.
+<br>I volunteered to present at the seminar due to my strong interest in CS algorithms. Preparing for the session was interesting; I utilized various resources to structure my presentation and learned a great deal in the process. Despite a demanding academic week, I successfully delivered the presentation. However, I wasn’t able to explain asymptotic notation as clearly as I would have liked, as I am still working to fully understand the concept myself.
 
 {{< figure src="/files/lakbai-cert-pic.JPG" align="center">}}
 

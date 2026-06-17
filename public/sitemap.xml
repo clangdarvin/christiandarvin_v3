@@ -45,5 +45,7 @@
     <loc>http://localhost:1313/reads/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/travel/</loc>
   </url>
 </urlset>

@@ -12,11 +12,15 @@ params:
 
 menu:
   main:
-    - identifier: cv
-      name: CV
-      url: files/DARVIN_Resume.pdf
+    # - identifier: cv
+    #   name: CV
+    #   url: files/DARVIN_Resume.pdf
+    #   weight: 60
+    
+    - identifier: travel
+      name: Travel
+      url: /travel/
       weight: 50
-
     - identifier: reads
       name: Reads
       url: /reads/

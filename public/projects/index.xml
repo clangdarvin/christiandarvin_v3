@@ -4,7 +4,7 @@
     <title>Projects on christiandarvin</title>
     <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on christiandarvin</description>
-    <generator>Hugo -- 0.161.1</generator>
+    <generator>Hugo -- 0.163.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -20,13 +20,6 @@
       <link>http://localhost:1313/projects/securepin/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/securepin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AlgoStep</title>
-      <link>http://localhost:1313/projects/algostep/</link>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/algostep/</guid>
       <description></description>
     </item>
   </channel>

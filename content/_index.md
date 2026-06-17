@@ -17,11 +17,10 @@ Running Ubuntu Linux as my daily driver since February 2025, my workflow consist
 
 ### contact
 
-Email me at [elidarvin.cs@gmail.com](mailto:elidarvin.cs@gmail.com) (personal) or [dcd0655@dlsud.edu.ph](mailto:dcd0655@dlsud.edu.ph) (university)
-
-[LinkedIn](https://www.linkedin.com/in/christiandarvin/)
-
-[GitHub](https://github.com/clangdarvin/)
+- **Personal Email:** [elidarvin.cs@gmail.com](mailto:elidarvin.cs@gmail.com)
+- **University Email:** [dcd0655@dlsud.edu.ph](mailto:dcd0655@dlsud.edu.ph)
+- **LinkedIn:** https://www.linkedin.com/in/christiandarvin/
+- **GitHub:** https://github.com/clangdarvin/
 
 ### papers
 
