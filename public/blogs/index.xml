@@ -4,10 +4,17 @@
     <title>Blogs on christiandarvin</title>
     <link>http://localhost:1313/blogs/</link>
     <description>Recent content in Blogs on christiandarvin</description>
-    <generator>Hugo -- 0.163.2</generator>
+    <generator>Hugo -- 0.164.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Apr 2026 01:36:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:30:27 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grit: Perseverance and Passion for Long-Term Goals</title>
+      <link>http://localhost:1313/blogs/grit_duckworth/</link>
+      <pubDate>Mon, 13 Jul 2026 23:30:27 +0800</pubDate>
+      <guid>http://localhost:1313/blogs/grit_duckworth/</guid>
+      <description>Angela L. Duckworth – 2007</description>
+    </item>
     <item>
       <title>Computing Machinery and Intelligence</title>
       <link>http://localhost:1313/blogs/computing_machinery_intelligence/</link>

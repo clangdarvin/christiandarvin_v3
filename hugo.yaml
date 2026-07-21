@@ -21,9 +21,9 @@ menu:
       name: Travel
       url: /travel/
       weight: 50
-    - identifier: reads
-      name: Reads
-      url: /reads/
+    - identifier: hobbies
+      name: Hobbies
+      url: /hobbies/
       weight: 40
 
     - identifier: talks
