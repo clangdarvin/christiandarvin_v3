@@ -4,14 +4,7 @@ title: "Hobbies"
 
 ## Gaming
 
-### 2026
-
-- Marvel's Spider-Man Remastered
-- Marvel's Spider-Man: Miles Morales
-- Marvel's Spider-Man 2
-- Cyberpunk 2077 (Phantom Liberty)
-- Alan Wake 2
-- Last of Us Part 1 (**Ongoing**)
+I love to play AAA video games as a hobby, and I'm cultivating a healthy balance between all of my hobbies. Right now, I'm heavily invested in story-rich action-adventure games and psychological thrillers.
 
 ---
 
