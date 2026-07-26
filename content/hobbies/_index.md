@@ -4,9 +4,7 @@ title: "Hobbies"
 
 ## Gaming
 
-I love to play AAA video games as a hobby, and I'm cultivating a healthy balance between all of my hobbies. Right now, I'm heavily invested in story-rich action-adventure games and psychological thrillers.
-
----
+I love to play AAA video games as a hobby, and I'm cultivating a healthy balance between all of my hobbies. My favorite video game franchises are The Last of Us, Silent Hill, BioShock, Telltale's The Walking Dead, Tomb Raider, and Marvel's Spider-Man.
 
 ## Reading
 
